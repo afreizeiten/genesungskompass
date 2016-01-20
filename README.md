@@ -1,3 +1,3 @@
 # genesungskompass
 
-Wie halte ich den Fokus auf Wellness und Genesung?
+Wie halte ich den Fokus auf Wellness und Genes?ung
