@@ -1,8 +1,8 @@
-Feature: <Title>
+Feature: Show Homepage
 
-  As a <role>
-  I want <feature>
-  So that <benefit>
+  As a user
+  I want see homepage
+  So that log in
 
   Scenario: <Title>
     Given <context>
