@@ -8,3 +8,4 @@ Feature: Navigate to toolbox
     Given I am logged in
     When  I click the toolbox navigation
     Then  I see "Toolbox" in main area
+    And   I can see the edit button
