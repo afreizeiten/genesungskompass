@@ -2,7 +2,7 @@ Feature: Navigate to toolbox
 
   As a user 
   I want to navigate to toolbox
-  So that read and eadit my tools
+  So that I can read and edit my tools
 
   Scenario: click navigation toolbox
     Given I am logged in
