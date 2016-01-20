@@ -1,3 +1,3 @@
-## Genesungskompass
+# genesungskompass
 
-eine App für Genesung und Wellness
+Wie halte ich den Fokus auf Wellness und Genesung?
