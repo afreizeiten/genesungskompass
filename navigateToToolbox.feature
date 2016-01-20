@@ -1,6 +1,6 @@
 Feature: Navigate to toolbox
 
-  As a user 
+  As a logged in user 
   I want to navigate to toolbox
   So that I can read and edit my tools
 
